@@ -1,0 +1,18 @@
+div{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(0, 0, 0);
+    margin: 5px;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+   
+    background-color: rgba(188, 121, 21, 0.953);
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+    color: white;
+   
+}
